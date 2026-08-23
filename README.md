@@ -1,17 +1,37 @@
 # Hi, I'm Nedim aka FloppyD98
 
-I'm a junior Python developer focused on automation, application development, and infrastructure.
+I'm an aspiring Python developer focused on automation, data processing, application development, and infrastructure.
 
-I'm currently building my skills through practical projects involving Python, data processing, web development, Linux, and self-hosted systems.
+I'm currently developing my skills through a Python and data-focused course while building practical projects and maintaining my own Linux-based homelab.
 
-## What I Work With
+My interests are at the intersection of **software development and IT infrastructure**, particularly Python automation, databases, Linux, virtualization, and networking.
+
+## What I Have Worked With
+
+### Python & Data
 
 * Python
-* HTML & CSS
-* JavaScript
+* Object-Oriented Programming
+* Core data structures
+* CSV and file processing
+* pandas
+* Excel data processing
+
+### Databases & Development
+
 * SQL
+* MySQL fundamentals
+* Database design fundamentals
 * Git & GitHub
+
+### Infrastructure
+
 * Linux
+* Proxmox VE
+* Virtual machines
+* Networking
+* MikroTik / RouterOS
+* Self-hosted services
 
 ## Projects
 
@@ -26,19 +46,30 @@ A command-line contact management application built with Python.
 
 [View the repository](https://github.com/FloppyD98/contact_manager)
 
+## Current Project
+
+I'm developing a Python-based application for automating a real-world Excel-based workflow.
+
+The project involves data processing, database design, application architecture, and client/server concepts.
+
 ## Currently Learning
 
-I'm continuing to develop my skills in:
+I'm currently expanding my skills in:
 
 * Python application development
-* SQL and database design
+* MySQL and SQL
+* Python-to-database communication
+* Data management and analysis
 * FastAPI
-* Data processing and automation
-* Web development
+* Backend development
 
-## Goal
+I'm also continuing to develop my Linux and infrastructure skills through my homelab.
 
-I'm working toward a career in IT and looking to build practical software and automation solutions while continuing to develop my skills through real projects.
+## Career Goal
+
+I'm working toward my first professional role in IT, with a particular interest in **Python development, automation, backend development, and infrastructure**.
+
+My goal is to build practical software, solve real problems, and continue developing my skills through hands-on projects and professional experience.
 
 ---
 
